@@ -18,8 +18,8 @@
             <div class="container">
             © 2014 Copyright Text
             <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            </div>
         </div>
-    </div>
 </footer>
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -27,6 +27,5 @@
     <link rel="stylesheet" href="/css/app.min.css">
     <script src="/materialize/materialize.min.js"></script>
     <script src="/js/app.js"></script>
-
 </body>
 </html>
