@@ -5,7 +5,7 @@ require('connexion.php');
 if(empty($_SESSION)) {
     echo "Vous n'êtes pas connecté ! <a href='login.php'>Se connecter</a>";
 } else if($_SESSION['idrole'] == 2 ) {
-    echo "Tu é un lambda";
+    echo "Tu est un lambda";
 } else if ($_SESSION['idrole'] == 1) {
     echo "Woh, tu est un super admin";  
     $req = $bdd->query("SELECT * FROM articles");

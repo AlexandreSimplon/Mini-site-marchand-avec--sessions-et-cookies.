@@ -1,7 +1,7 @@
 <?php
     require 'connexion.php';
     // On empêche l'injection de code..
-   
+  
     $email = htmlspecialchars($_POST['email']);
     
     if(!filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -35,7 +35,7 @@
 
       $insertmbr=$bdd->prepare("INSERT INTO users (email, pseudo, password, idrole) VALUES ('$email', '$pseudo', '$password', '$idrole')");
       $insertmbr->execute();
-      echo "Félication, vous êtes enfin inscrit au bout de 8 heures. :) ";
+      echo "Félication, vous êtes inscrit :) ";
     }
     }
     }
