@@ -1,6 +1,4 @@
-<?php
-    require_once ("php/page_accueil.php")
-?>
+<?php require_once ("php/page_accueil.php") ?>
 
 
 
