@@ -66,16 +66,33 @@
 
 
 
-<div class="col s3 divarticle">
+<div class="container center">
+    <div class="row linge">
+            <div class="col s3 divarticle">
 
             <!-- faire une boucle PHP -->
 
                 <div>
                     <h6><title><?php echo $Marque ?></title><?php echo $Model ?></h6>
                     <img src="<?php echo $Images ?>" alt="<?php echo $Description_img ?>">
-                    <h6>Prix:<?php echo $Prix ?></h6>
+                    <h6><u>Prix :</u> <b><?php echo $Prix ?></b><strong class="euros">€</strong></h6>
                 </div>
             </div>
+
+            <!-- -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ -->
+
+
+
+
+
+
+            <div class="col s3 divarticle">2</div>
+            <div class="col s3 divarticle">3</div>
+            <div class="col s3 divarticle">4</div>
+    </div>
+</div>
+
+
 
 
 
