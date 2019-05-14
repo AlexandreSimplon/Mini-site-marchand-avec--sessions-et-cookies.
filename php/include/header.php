@@ -14,7 +14,7 @@
             <a href="#" class="brand-logo">MAGIC <b>SOUND</b></a>
             <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><input id="rechercher" type="input" placeholder=" . . . . . Que recherchez-vous ?"><li>
+                    <li><input id="rechercher" type="input" placeholder="          Que recherchez-vous ?"><li>
                     <li><a href="sass.html">inscrivez-vous</a></li>
                     <li>/</li>
                     <li><a href="badges.html">connexion</a></li>
