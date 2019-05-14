@@ -53,9 +53,8 @@
 
 
         <div class="footer-copyright">
-            <div class="container">
-            © 2014 Copyright Text
-            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            <div class="container center">
+                <a class="grey-text text-lighten-4" href="#!">Mentions légales</a> ©<em>Copyright</em><b> Magic sound</b>
             </div>
         </div>
 </footer>
