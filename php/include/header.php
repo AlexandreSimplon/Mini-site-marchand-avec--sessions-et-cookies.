@@ -24,7 +24,7 @@
         </div>
     </nav>
     <nav class="nav-extended center black">
-        <div class="row">
+        <div class="row nav2">
                 <div class="col s1"><a>guitares</a></li></div>
                 <div class="col s1"><a>pianos</a></div>
                 <div class="col s1"><a>percussions</a></div>
