@@ -11,12 +11,29 @@
 <div class="container center">
     <div class="row linge">
             <div class="col s3 divarticle">
+
+            <!-- faire une boucle PHP -->
+
                 <div>
                     <h6><title><?php echo $Marque ?></title><?php echo $Model ?></h6>
-                    <img src="" alt="">
-                    
+                    <img src="<?php echo $Images ?>" alt="<?php echo $Description_img ?>">
+                    <h6><u>Prix :</u> <b><?php echo $Prix ?></b><strong class="euros">€</strong></h6>
                 </div>
             </div>
+
+            <!-- -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ -->
+
+
+            <!-- <?php
+            // $reponse = $bdd->query('SELECT * FROM Articles');
+
+            // On affiche chaque entrée une à une
+            // while ($donnees = $reponse->fetch()){
+
+            // echo"";}
+            ?> -->
+
+
 
 
 
@@ -47,6 +64,18 @@
 
 
 
+
+
+<div class="col s3 divarticle">
+
+            <!-- faire une boucle PHP -->
+
+                <div>
+                    <h6><title><?php echo $Marque ?></title><?php echo $Model ?></h6>
+                    <img src="<?php echo $Images ?>" alt="<?php echo $Description_img ?>">
+                    <h6>Prix:<?php echo $Prix ?></h6>
+                </div>
+            </div>
 
 
 
