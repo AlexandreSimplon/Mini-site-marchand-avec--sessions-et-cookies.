@@ -25,17 +25,17 @@
     </nav>
     <nav class="nav-extended center black">
         <div class="row nav2">
-                <div class="col s1"><a>guitares</a></li></div>
-                <div class="col s1"><a>pianos</a></div>
-                <div class="col s1"><a>percussions</a></div>
-                <div class="col s1"><a>synthétiseur</a></div>
-                <div class="col s1"><a>studio</a></div>
-                <div class="col s1"><a>softwares</a></div>
-                <div class="col s1"><a>effets</a></div>
-                <div class="col s2"><a>sonorisation/amplis</a></div>
-                <div class="col s1"><a>deejay</a></div>
-                <div class="col s1"><a>micros</a></div>
-                <div class="col s1"><a>violons</a></div>
+                <a href="#"><div class="col s1">guitares</div></a>
+                <a href="#"><div class="col s1">pianos</div></a>
+                <a href="#"><div class="col s1">percussions</div></a>
+                <a href="#"><div class="col s1">synthétiseur</div></a>
+                <a href="#"><div class="col s1">studio</div></a>
+                <a href="#"><div class="col s1">softwares</div></a>
+                <a href="#"><div class="col s1">effets</div></a>
+                <a href="#"><div class="col s2">sonorisation/amplis</div></a>
+                <a href="#"><div class="col s1">deejay</div></a>
+                <a href="#"><div class="col s1">micros</div></a>
+                <a href="#"><div class="col s1">violons</div></a>
         </div>
     </nav>
 
