@@ -12,7 +12,7 @@
             <div class="col s2">NOUS SUIVRE</div>
         </div>
         <div class="row linge">
-            <div class="col s3 offset-s1">
+            <div class="col s2 offset-s1">
                 <div class="row linge">
                     <div class="col s3"><img class="securise" src="/images/visa-5-logo-png-transparent.png" alt="card visa"></div>
                     <div class="col s3"><img class="securise" src="/images/mastercard-symbol-02.jpg" alt="master card"></div>
@@ -24,13 +24,13 @@
                     <div class="col s3"><img class="securise" src="/images/logo_fia-net_rouge_bg_0.jpg" alt=""></div>
                 </div>
             </div>
-            <div class="col s4">
+            <div class="col s3 offset-s1">
                 <div class="row linge">
                     <div class="col s2"><img class="securise" src="/images/LOGO-COLIPOSTE.jpg" alt="coli poste"></div>
                     <div class="col s2"><img class="securise" src="/images/tnt-logo.jpg" alt="t.n.t"></div>
                 </div>
             </div>
-            <div class="col s2">
+            <div class="col s2 offset-s1">
                 <div class="row linge">
                     <div class="col s2">
                         <p>01.48.75.18.41</p>
