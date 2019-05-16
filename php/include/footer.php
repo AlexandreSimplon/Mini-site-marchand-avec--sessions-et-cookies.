@@ -60,9 +60,9 @@
 </footer>
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="/materialize/materialize.min.css">
+    <link rel="stylesheet" href="/css/materialize.min.css">
     <link rel="stylesheet" href="/css/app.min.css">
-    <script src="/materialize/materialize.min.js"></script>
+    <script src="/js/materialize.min.js"></script>
     <script src="/js/app.js"></script>
 </body>
 </html>

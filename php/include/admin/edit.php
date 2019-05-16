@@ -12,7 +12,8 @@ if(empty($_SESSION)) {
     $donnees = $req->fetchAll();
     // $titre = $donnees['titre'];
     // $desc = $donnees['description'];
-    // $image = $donnees['image']; ?>
+    // $image = $donnees['image']; 
+?>
 
 
 
