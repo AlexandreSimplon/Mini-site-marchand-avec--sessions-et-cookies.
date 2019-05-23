@@ -1,4 +1,4 @@
-<?php require_once ("include/header.php") ?>
+<?php require_once("php/include/admin/header.php") ?>
 
 <div class="container articlespageprincipale">
     <div class="row linge center">
@@ -98,4 +98,4 @@
 
 
 
-<?php require_once ("include/footer.php") ?>
+<?php require_once ("php/include/admin/footer.php") ?>

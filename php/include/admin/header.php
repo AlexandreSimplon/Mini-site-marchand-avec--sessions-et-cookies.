@@ -54,7 +54,7 @@
     </ul>
 
 <div class="img_header">
-    <img src="images/cubase-pro-8.jpg" alt="cubase-pro-8">
+    <img src="/images/cubase-pro-8.jpg" alt="cubase-pro-8">
 </div>
 
 <!-- <div class="carousel carousel-slider">

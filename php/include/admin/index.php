@@ -1,17 +1,18 @@
-<!DOCTYPE html>
-<html lang="fr">
+<?php
+    include_once("header.php");
+?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="./css/app.css">
-    <title>ADMIN</title>
-</head>
 
-<body>
     <h1>Inscription</h1>
     <form method='post' action="inscription.php">
+
+        <div class="input-field col s6">
+            <label for="first_name">First Name</label>
+            <input placeholder="Placeholder" id="first_name" type="text" class="validate">
+        </div>
+
+
+
         <div>
             <label for="email">Email</label>
             <input type="email" name="email" required>
@@ -28,6 +29,9 @@
         <button type="submit">Envoyer</button>
         </div>
     </form>
-</body>
 
-</html>
+
+
+<?php
+    include_once("footer.php");
+?>
