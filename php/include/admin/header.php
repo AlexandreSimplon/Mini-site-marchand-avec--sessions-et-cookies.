@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <!-- <link rel="stylesheet" href="/css/materialize/materialize.min.css"> -->
+    <link rel="icon" href="/images/high-five.png" type=".png">
 </head>
 <body>
 <header>

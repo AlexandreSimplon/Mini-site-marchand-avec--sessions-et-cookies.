@@ -1,29 +1,27 @@
-<!DOCTYPE html>
-<html lang="fr">
+<?php
+    include_once ("header.php");
+?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="./css/app.css">
-    <title>ADMIN</title>
-</head>
 
-<body>
-    <h1>Se connecter</h1>
-    <form method='post' action="login_post.php">
-        <div>
-            <label for="email">Email</label>
-            <input type="email" name="email" required>
-        </div>
-        <div>
-            <label for="password">Mot de passe</label>
-            <input type="password" name="password" required>
-        </div>
-        <div>
-        <button type="submit">Connection</button>
+    <h1 class="center titre1">Se connecter</h1>
+    <form class="formulaireinscription1" method='post' action="login_post.php">
+
+        <div class="container center inscriptionphp">
+            <div class="input-field col s6">
+                <label for="email">Email</label>
+                <input type="email" name="email" required>
+            </div>
+            <div class="input-field col s6">
+                <label for="password">Mot de passe</label>
+                <input type="password" name="password" required>
+            </div>
+            <div class="input-field col s6">
+                <button class="BoutonEnvoyer" type="submit"><b>Connection</b></button>
+            </div>
         </div>
     </form>
-</body>
 
-</html>
+
+<?php
+    include_once ("footer.php");
+?>
